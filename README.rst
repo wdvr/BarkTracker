@@ -1,3 +1,9 @@
+***
+
+This application is adapted from the original to run on MacOS. README is TODO, as well is requirements + clean up.
+
+***
+
 BarkTracker
 ===========
 
